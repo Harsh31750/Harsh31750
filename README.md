@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kr.Harshit Singh</h1>
+<h1 align="center">Hi 👋, I'm Kr. Harshit Singh</h1>
 <h3 align="center"> Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh31750&label=Profile%20views&color=0e75b6&style=flat" alt="harsh31750" /> </p>
