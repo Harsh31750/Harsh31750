@@ -168,12 +168,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
 
-
-### 📊 Most Used Languages:
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh31750&layout=compact&theme=dark" alt="Harsh31750's Most Used Languages" />
-  </a>
-</p>
-
