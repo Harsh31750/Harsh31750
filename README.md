@@ -171,3 +171,23 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh31750&" alt="harsh31750" /></p>
 
 
+
+
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh31750&label=Profile%20views&color=0e75b6&style=flat" alt="harsh31750" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh31750" alt="harsh31750" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/harsh31750" target="blank"><img src="https://img.shields.io/twitter/follow/harsh31750?logo=twitter&style=for-the-badge" alt="harsh31750" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harsh31750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh31750" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpgb2ewhqq4mjuu%2bthsrptw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpgb2ewhqq4mjuu%2bthsrptw%3d%3d" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/kumarharshit.singh.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kumarharshit.singh.33" height="30" width="40" /></a>
+</p>
