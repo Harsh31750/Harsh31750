@@ -14,26 +14,26 @@
 
 <p align="left">
   <!-- LinkedIn -->
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpgb2ewhqq4mjuu%2bthsrptw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpgb2ewhqq4mjuu%2bthsrptw%3d%3d" height="25" width="25" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpgb2ewhqq4mjuu%2bthsrptw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpgb2ewhqq4mjuu%2bthsrptw%3d%3d" height="30" width="30" /></a>
   <!-- GitHub -->
   <a href="https://github.com/your-github-profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a>
   <!-- Twitter -->
-  <a href="https://twitter.com/harsh31750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh31750" height="25" width="25" /></a>
+  <a href="https://twitter.com/harsh31750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh31750" height="30" width="30" /></a>
   <!-- Gmail -->
   <a href="mailto:your-harsh31750@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="25" height="25" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" />
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="25" height="25" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" height="30" />
   </a>
   <!-- Facebook -->
-  <a href="https://fb.com/https://www.facebook.com/kumarharshit.singh.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kumarharshit.singh.33" height="25" width="25" /></a>
+  <a href="https://fb.com/https://www.facebook.com/kumarharshit.singh.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kumarharshit.singh.33" height="30" width="30" /></a>
   <!-- Portfolio -->
 <!--   <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-freelance-agency-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="25" height="25" />
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-freelance-agency-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="30" height="30" />
   </a> -->
 </p>
 
