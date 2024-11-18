@@ -26,9 +26,9 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" />
   </a> -->
   <!-- Instagram -->
-  <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" height="30" />
-  </a>
+  </a> -->
   <!-- Facebook -->
   <a href="https://fb.com/https://www.facebook.com/kumarharshit.singh.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kumarharshit.singh.33" height="30" width="30" /></a>
   <!-- Portfolio -->
