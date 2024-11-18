@@ -172,8 +172,8 @@
 ### 📊 Most Used Languages:
 
 <p align="left">
-  <a href=https://github.com/Harsh31750/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Harsh31750&layout=compact&theme=radical" alt="Most Used Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh31750&layout=compact&theme=radical" alt="Harsh31750's Most Used Languages" />
   </a>
 </p>
 
