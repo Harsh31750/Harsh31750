@@ -38,9 +38,9 @@
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" />
   </a>
   <!-- Portfolio -->
-  <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-freelance-agency-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="40" height="40" />
-  </a>
+  </a> -->
 </p>
 
 
