@@ -67,6 +67,10 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
+  <!-- MySQL Workbench -->
+  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="40" height="40" />
+  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -132,8 +136,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
   </a>
 </p>
-
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
