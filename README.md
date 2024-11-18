@@ -22,9 +22,8 @@
   <!-- Twitter -->
 <a href="https://twitter.com/harsh31750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh31750" height="30" width="40" /></a>
   <!-- Gmail -->
-  <a href="mailto:your-harsh31750@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="40" />
-  </a>
+<a href="mailto:your-harsh31750@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="40" />
+</a>
   <!-- Instagram -->
 <!--   <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" height="40" />
