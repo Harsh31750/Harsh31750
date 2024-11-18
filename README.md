@@ -173,7 +173,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh31750&layout=compact&theme=radical" alt="Harsh31750's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh31750&layout=compact&theme=dark" alt="Harsh31750's Most Used Languages" />
   </a>
 </p>
 
