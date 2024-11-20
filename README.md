@@ -97,7 +97,7 @@
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg alt="Tailwind CSS" width="30" height="30" />
+    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg alt="Tailwind CSS" width="30" height="30" />
   </a>
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
