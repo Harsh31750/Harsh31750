@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a> -->
   <!-- Twitter -->
-  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
+  <a href=https://twitter.com/harsh31750 target="_blank" rel="noreferrer">
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg alt="Twitter" width="30" height="30" />
   </a>
   <!-- Gmail -->
