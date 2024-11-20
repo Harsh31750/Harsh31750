@@ -174,6 +174,6 @@
  -->
 
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="500" height="400" />
 </p>
