@@ -201,3 +201,11 @@
        width="500" 
        height="200" />
 </p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=light" 
+       alt="harsh31750" 
+       width="800" 
+       height="400" />
+</p>
