@@ -34,7 +34,7 @@
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg alt="Instagram" width="30" height="30" />
   </a>
   <!-- Facebook -->
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank" rel="noreferrer">
+  <a href=https://www.facebook.com/kumarharshit.singh.33 target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="30" height="30" />
   </a>
   <!-- Portfolio -->
