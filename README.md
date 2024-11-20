@@ -23,7 +23,7 @@
   </a> -->
   <!-- Twitter -->
   <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
-    <img src=https://image.similarpng.com/very-thumbnail/2020/06/Premium-logo-Twitter-transparent-PNG.png alt="Twitter" width="30" height="30" />
+    <img src=https://www.kindpng.com/picc/m/114-1140188_twitter-icon-circle-size-hd-png-download.png alt="Twitter" width="30" height="30" />
   </a>
   <!-- Gmail -->
   <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
