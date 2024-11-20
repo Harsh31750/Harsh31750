@@ -191,3 +191,41 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="1000" height="400" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <!-- Most Used Languages -->
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
+    </td>
+    <!-- GitHub Stats -->
+    <td>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=light" 
+       alt="harsh31750" 
+          style="width: 100%; max-width: 1000px;"
+
+        />
+      </p>
+    </td>
+  </tr>
+</table>
+
+width="500" 
+       height="200"
