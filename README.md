@@ -219,7 +219,7 @@
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=light" 
        alt="harsh31750" 
-          style="width: 100%; max-width: 1000px;"
+          style="width: 100; max-width: 1000;"
 
         />
       </p>
