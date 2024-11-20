@@ -180,9 +180,7 @@
     </td>
     <!-- GitHub Stats -->
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harsh31750&show_icons=true&theme=radical" alt="Harsh31750's GitHub Stats" />
-      </a>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
     </td>
   </tr>
 </table>
