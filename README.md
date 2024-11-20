@@ -166,6 +166,34 @@
 </p>
 
 
+
+
+
+
+### 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <!-- Most Used Languages -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh31750&layout=compact&theme=radical" alt="Harsh31750's Most Used Languages" />
+      </a>
+    </td>
+    <!-- GitHub Stats -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Harsh31750&show_icons=true&theme=radical" alt="Harsh31750's GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact" alt="harsh31750" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
