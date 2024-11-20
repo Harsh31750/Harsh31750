@@ -166,9 +166,9 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact" alt="harsh31750" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh31750&" alt="harsh31750" /></p>
  -->
