@@ -178,5 +178,5 @@
 ### 👨‍💻 Programmer Life:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="600" height="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="1000" height="400" />
 </p>
