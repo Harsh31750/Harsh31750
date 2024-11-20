@@ -30,7 +30,7 @@
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg alt="Gmail" width="30" height="30" />
   </a>
   <!-- Instagram -->
-  <a href=https://twitter.com/harsh31750 target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/harsh_82520" target="_blank" rel="noreferrer">
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg alt="Instagram" width="30" height="30" />
   </a>
   <!-- Facebook -->
