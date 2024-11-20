@@ -14,7 +14,7 @@
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href=https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200 target="_blank" rel="noreferrer">
+  <a href=https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app target="_blank" rel="noreferrer">
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg alt="LinkedIn" width="30" height="30" />
   </a>
   <!-- GitHub -->
