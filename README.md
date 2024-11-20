@@ -101,7 +101,7 @@
   </a>
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="30" height="30" />
+    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg alt="Next.js" width="30" height="30" />
   </a>
   <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
