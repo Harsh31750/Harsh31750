@@ -186,3 +186,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="1000" height="400" />
 </p>
+
+
+
+
+
+
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" 
+       alt="harsh31750" />
+</p>
