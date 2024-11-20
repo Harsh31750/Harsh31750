@@ -15,32 +15,32 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   <!-- GitHub -->
-  <a href="https://github.com/your-github-profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  </a>
+<!--   <a href="https://github.com/your-github-profile" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
+  </a> -->
   <!-- Twitter -->
   <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" />
   </a>
   <!-- Gmail -->
   <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" />
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" height="30" />
   </a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/your-facebook-profile" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="30" height="30" />
   </a>
   <!-- Portfolio -->
-  <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-freelance-agency-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="40" height="40" />
-  </a>
+<!--   <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-freelance-agency-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="30" height="30" />
+  </a> -->
 </p>
 
 
