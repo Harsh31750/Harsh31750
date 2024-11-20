@@ -15,7 +15,7 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg alt="LinkedIn" width="30" height="30" />
   </a>
   <!-- GitHub -->
 <!--   <a href="https://github.com/your-github-profile" target="_blank" rel="noreferrer">
