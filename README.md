@@ -145,7 +145,7 @@
   </a>
   <!-- macOS -->
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="30" height="30" />
+    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Apple-Light.svg alt="macOS" width="30" height="30" />
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
