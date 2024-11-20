@@ -14,7 +14,7 @@
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href=https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200/ target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200/" target="_blank" rel="noreferrer">
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg alt="LinkedIn" width="30" height="30" />
   </a>
   <!-- GitHub -->
@@ -22,11 +22,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a> -->
   <!-- Twitter -->
-  <a href=https://twitter.com/harsh31750 target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/harsh31750" target="_blank" rel="noreferrer">
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg alt="Twitter" width="30" height="30" />
   </a>
   <!-- Gmail -->
-  <a href=mailto: harsh31750@gmail.com target="_blank" rel="noreferrer">
+  <a href="mailto: harsh31750@gmail.com" target="_blank" rel="noreferrer">
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg alt="Gmail" width="30" height="30" />
   </a>
   <!-- Instagram -->
@@ -34,7 +34,7 @@
     <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg alt="Instagram" width="30" height="30" />
   </a>
   <!-- Facebook -->
-  <a href=https://www.facebook.com/kumarharshit.singh.33 target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/kumarharshit.singh.33" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="30" height="30" />
   </a>
   <!-- Portfolio -->
