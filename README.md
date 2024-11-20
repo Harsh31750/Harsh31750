@@ -187,6 +187,10 @@
   </tr>
 </table>
 
+### 📊 All Used Languages (via GitHub Stats):
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh31750&langs_count=10&theme=radical" alt="All Languages Used by Harsh31750" />
+</p>
 
 
 
