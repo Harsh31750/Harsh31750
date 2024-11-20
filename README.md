@@ -197,3 +197,10 @@
        src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" 
        alt="harsh31750" />
 </p>
+
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=light" 
+       alt="harsh31750" />
+</p>
+
