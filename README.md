@@ -27,7 +27,7 @@
   </a>
   <!-- Gmail -->
   <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" />
+    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg alt="Gmail" width="30" height="30" />
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noreferrer">
