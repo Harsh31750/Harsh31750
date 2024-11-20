@@ -210,6 +210,6 @@
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=light" 
        alt="harsh31750" 
-       width="500" 
-       height="300" />
+       width="300" 
+       height="100" />
 </p>
