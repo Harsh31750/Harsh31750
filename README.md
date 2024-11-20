@@ -176,7 +176,7 @@
   <tr>
     <!-- Most Used Languages -->
     <td>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact" alt="harsh31750" />
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact" alt="harsh31750" /></p>
     </td>
     <!-- GitHub Stats -->
     <td>
