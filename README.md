@@ -111,6 +111,10 @@
   <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=60&id=79873&format=png" alt="REST APIs" width="30" height="30" />
   </a>
+  <!-- Mongoose -->
+  <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer">
+    <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="30" height="30" />
+  </a>
   <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" />
