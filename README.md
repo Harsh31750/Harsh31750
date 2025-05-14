@@ -135,6 +135,14 @@
   <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30" />
   </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="30" height="30" />
+  </a>
+    <!-- npm -->
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=96&id=24895&format=png" alt="npm" width="30" height="30" />
+  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" />
