@@ -107,9 +107,8 @@
   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
     <img src=https://img.icons8.com/?size=96&id=puL87ypQPxxr&format=png alt="EJS" width="30" height="30" />
   </a>
-  
-    <!-- REST APIs -->
-  <a href="https://www.ibm.com/think/topics/rest-apis#:~:text=A%20REST%20API%20is%20an,APIs%20or%20RESTful%20web%20APIs." target="_blank" rel="noreferrer">
+  <!-- REST APIs -->
+  <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
     <img src=https://icons8.com/icon/79873/api-settings alt="REST APIs" width="30" height="30" />
   </a>
   <!-- Redux -->
