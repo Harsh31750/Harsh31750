@@ -115,6 +115,18 @@
   <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="30" height="30" />
   </a>
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" width="30" height="30" />
+  </a>
+    <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="30" height="30" />
+  </a>
+    <!-- pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="30" height="30" />
+  </a>
   <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" />
