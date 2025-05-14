@@ -109,7 +109,7 @@
   </a>
   <!-- REST APIs -->
   <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
-    <img src=https://icons8.com/icon/79873/api-settings alt="REST APIs" width="30" height="30" />
+    <img src="https://img.icons8.com/?size=60&id=79873&format=png" alt="REST APIs" width="30" height="30" />
   </a>
   <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
