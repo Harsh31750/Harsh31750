@@ -119,6 +119,18 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=96&id=Rffi8qeb2fK5&format=png" alt="Streamlit" width="30" height="30" />
   </a>
+  
+  
+  
+  
+  <!-- scikit-learn -->
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="30" height="30" />
+  </a>
+    <!-- Joblib -->
+  <a href="https://joblib.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://joblib.readthedocs.io/en/stable/_static/joblib_logo.svg" alt="Joblib" width="30" height="30" />
+  </a>
   <!-- Mongoose -->
   <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="30" height="30" />
@@ -134,6 +146,10 @@
     <!-- pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="30" height="30" />
+  </a>
+    <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="30" height="30" />
   </a>
   <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
