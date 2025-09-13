@@ -111,6 +111,14 @@
   <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=60&id=79873&format=png" alt="REST APIs" width="30" height="30" />
   </a>
+  <!-- Flask’s -->
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png" alt="Flask’s" width="30" height="30" />
+  </a>
+    <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=96&id=Rffi8qeb2fK5&format=png" alt="Streamlit" width="30" height="30" />
+  </a>
   <!-- Mongoose -->
   <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="30" height="30" />
