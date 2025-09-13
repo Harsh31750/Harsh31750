@@ -7,7 +7,7 @@
 
 - 📫 Gmail **harsh31750@gmail.com**
 
-- ⚡ Fun fact **I Think i'm Passionate about Developing Applications**
+- ⚡ Fun fact **I Think i'm enthusiastic about leveraging Data Science for predictive modeling and decision-making.**
 
 
 ### 🤝 Connect with Me:
