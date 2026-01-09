@@ -13,8 +13,6 @@
   ⚡ <i>I think I'm enthusiastic about leveraging Data Science for predictive modeling and decision-making.</i>
 </p>
 
----
-
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200/" target="_blank">
