@@ -58,10 +58,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35" title="NumPy"/>
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="35" title="Pandas"/>
 
-<!-- Data Engineering & Cloud -->
-<img src="https://raw.githubusercontent.com/dbt-labs/art/main/dbt-logo/dbt-icon.svg" width="35" title="dbt"/>
-<img src="https://raw.githubusercontent.com/snowflakedb/snowflake-logo/main/Snowflake-Logo/Snowflake-Logo-Color.svg" width="35" title="Snowflake"/>
-<img src="https://raw.githubusercontent.com/databricks/databricks-logo/main/Databricks_logo.svg" width="35" title="Databricks"/>
+<!-- Data Engineering & Cloud (Fixed via Shields badges) -->
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" width="35" title="dbt"/>
+<img src="https://img.shields.io/badge/Snowflake-1F5CFF?style=flat-square&logo=snowflake&logoColor=white" width="35" title="Snowflake"/>
+<img src="https://img.shields.io/badge/Databricks-FF6C37?style=flat-square&logo=databricks&logoColor=white" width="35" title="Databricks"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="35" title="BigQuery"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="35" title="Microsoft Fabric"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" title="Git"/>
@@ -76,15 +76,16 @@
 <img src="https://img.icons8.com/color/48/google-analytics.png" width="35" title="Google Analytics (GA4)"/>
 <img src="https://img.icons8.com/color/48/bar-chart.png" width="35" title="Mixpanel"/>
 
-<!-- Tools & Frameworks -->
+<!-- Tools & Frameworks (Postman fixed with Shields badge) -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" title="VS Code"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35" title="Jupyter Notebook"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="35" title="Streamlit"/>
-<img src="https://raw.githubusercontent.com/postmanlabs/logos/main/postman-icon.svg" width="35" title="Postman"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" width="35" title="Postman"/>
 <img src="https://img.icons8.com/color/48/jira.png" width="35" title="Jira"/>
 <img src="https://img.icons8.com/color/48/workflow.png" width="35" title="Alteryx"/>
 
 </p>
+
 
 
 
