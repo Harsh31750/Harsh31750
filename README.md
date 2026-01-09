@@ -42,7 +42,6 @@
 <!-- Programming & Query Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" title="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="35" title="R"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" title="SQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" title="C++"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" title="Java"/>
 
