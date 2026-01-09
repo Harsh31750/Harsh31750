@@ -14,7 +14,7 @@
 </p>
 
 ## 🤝 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30"/>
   </a>
