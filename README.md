@@ -98,16 +98,20 @@ Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Syste
 ---
 
 ## 📈 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31750&layout=compact&langs_count=10&theme=dark" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&hide_border=true&cache_seconds=86400" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31750&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" 
+    height="165"
+  />
+</p>
 
 ---
 
