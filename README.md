@@ -1,248 +1,122 @@
 <h1 align="center">Hi 👋, I'm Kumar Harshit Singh</h1>
-<h3 align="center"> Software Engineer </h3>
+<h3 align="center">Data Science Engineer | Data & Product Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh31750&label=Profile%20views&color=0e75b6&style=flat" alt="harsh31750" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh31750" alt="harsh31750" /></a> </p>
-
-- 📫 Gmail **harsh31750@gmail.com**
-
-- ⚡ Fun fact **I Think i'm enthusiastic about leveraging Data Science for predictive modeling and decision-making.**
-
-
-### 🤝 Connect with Me:
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200/" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg alt="LinkedIn" width="30" height="30" />
-  </a>
-  <!-- GitHub -->
-<!--   <a href="https://github.com/your-github-profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
-  </a> -->
-  <!-- Twitter -->
-  <a href="https://twitter.com/harsh31750" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg alt="Twitter" width="30" height="30" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto: harsh31750@gmail.com" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg alt="Gmail" width="30" height="30" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/harsh_82520" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg alt="Instagram" width="30" height="30" />
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/kumarharshit.singh.33" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="30" height="30" />
-  </a>
-  <!-- Portfolio -->
-<!--   <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-freelance-agency-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="30" height="30" />
-  </a> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh31750&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  📧 <a href="mailto:harsh31750@gmail.com">harsh31750@gmail.com</a>
+</p>
 
-### 🛠️ Languages and Tools:
+<p align="center">
+  ⚡ <i>I think I'm enthusiastic about leveraging Data Science for predictive modeling and decision-making.</i>
+</p>
 
-<p align="left">
-  <!-- C++ -->
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
+---
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kr-harshit-singh-a0a1a9200/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30"/>
   </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" />
+  <a href="https://twitter.com/harsh31750" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="30"/>
   </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+  <a href="mailto:harsh31750@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="30"/>
   </a>
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" />
+  <a href="https://www.instagram.com/harsh_82520" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="30"/>
   </a>
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-  </a>
-  <!-- SQL -->
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="30" height="30" />
-  </a>
-  <!-- R Language -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Language" width="30" height="30" />
-  </a>
-  <!-- MS Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="30" height="30" />
-  </a>
-   <!-- React.js -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30" />
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-  </a>
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg alt="Express.js" width="30" height="30" />
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg alt="Tailwind CSS" width="30" height="30" />
-  </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg alt="Next.js" width="30" height="30" />
-  </a>
-  <!-- EJS -->
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img src=https://img.icons8.com/?size=96&id=puL87ypQPxxr&format=png alt="EJS" width="30" height="30" />
-  </a>
-  <!-- REST APIs -->
-  <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=60&id=79873&format=png" alt="REST APIs" width="30" height="30" />
-  </a>
-  <!-- Flask’s -->
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png" alt="Flask’s" width="30" height="30" />
-  </a>
-    <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=96&id=Rffi8qeb2fK5&format=png" alt="Streamlit" width="30" height="30" />
-  </a>
-  
-  
-  
-  
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="30" height="30" />
-  </a>
-    <!-- Joblib -->
-  <a href="https://joblib.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://joblib.readthedocs.io/en/stable/_static/joblib_logo.svg" alt="Joblib" width="30" height="30" />
-  </a>
-  <!-- Mongoose -->
-  <a href="https://mongoosejs.com/docs/" target="_blank" rel="noreferrer">
-    <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="30" height="30" />
-  </a>
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" width="30" height="30" />
-  </a>
-    <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="30" height="30" />
-  </a>
-    <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="30" height="30" />
-  </a>
-    <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="30" height="30" />
-  </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" />
-  </a>
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30" />
-  </a>
-  <!-- Jupyter Notebook -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30" height="30" />
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" />
-  </a>
-  <!-- MySQL Workbench -->
-  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30" />
-  </a>
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="30" height="30" />
-  </a>
-    <!-- npm -->
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=96&id=24895&format=png" alt="npm" width="30" height="30" />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" />
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
-  </a>
-  <!-- RStudio -->
-  <a href="https://posit.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="30" height="30" />
-  </a>
-  <!-- Windows -->
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="30" />
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />
-  </a>
-  <!-- macOS -->
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Apple-Light.svg alt="macOS" width="30" height="30" />
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" />
-  </a>
-  <!-- Android -->
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="30" height="30" />
-  </a>
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30" />
+  <a href="https://www.facebook.com/kumarharshit.singh.33" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="30"/>
   </a>
 </p>
 
+---
 
-<table>
+## 🧠 Languages & Tools
+<p align="center">
+
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
+
+<!-- Data / ML -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/>
+<img src="https://numpy.org/images/logo.svg" width="35"/>
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="35"/>
+<img src="https://matplotlib.org/_static/logo_dark.svg" width="35"/>
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="35"/>
+
+<!-- BI -->
+<img src="https://img.icons8.com/color/48/power-bi.png" width="35"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="35"/>
+<img src="https://img.icons8.com/color/48/ms-excel.png" width="35"/>
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/>
+
+</p>
+
+---
+
+## 📊 Skill Summary
+
+**Programming & Databases**  
+Python, R, SQL, C++, Java, VBA | MySQL, PostgreSQL, MongoDB  
+
+**Data Science & ML**  
+Scikit-learn, PySpark, Statsmodels, Time Series Analysis,  
+Hypothesis Testing (A/B Testing), LLMs & Prompt Engineering  
+
+**Data Engineering & Cloud**  
+ETL / ELT Pipelines, dbt, Snowflake, BigQuery, Databricks,  
+Microsoft Fabric, Git  
+
+**Analytics & BI**  
+Pandas, NumPy, Power BI (DAX), Tableau, Advanced Excel,  
+Star & Snowflake Schema  
+
+**Product Analytics**  
+Amplitude, GA4, Mixpanel, Funnel & Cohort Analysis,  
+DAU / MAU / LTV / CAC / Retention  
+
+**Tools**  
+VS Code, Jupyter, Streamlit, Postman, Jira, Alteryx  
+
+---
+
+## 📈 GitHub Stats
+<table align="center">
   <tr>
-    <!-- Most Used Languages -->
     <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&locale=en" alt="harsh31750" /></p>
+      <img src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&theme=dark" />
     </td>
-    <!-- GitHub Stats -->
     <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh31750&show_icons=true&locale=en&layout=compact&langs_count=10&theme=light" 
-       alt="harsh31750" 
-       style="width: 100%; max-width: 1000px;" />
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31750&layout=compact&langs_count=10&theme=dark" />
     </td>
   </tr>
 </table>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh31750&" alt="harsh31750" /></p>
- -->
-
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer GIF" width="1000" height="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="400"/>
 </p>
+
+---
+
+📌 **Actively seeking roles:**  
+**Data Analyst | Analytics Engineer | Product Analyst | BI Engineer**
