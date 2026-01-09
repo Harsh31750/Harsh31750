@@ -78,8 +78,7 @@
 Python, R, SQL, C++, Java, VBA, MySQL, PostgreSQL, MongoDB  
 
 **Data Science & Machine Learning**  
-Scikit-learn, PySpark, Statsmodels, Time Series Analysis,  
-Hypothesis Testing (A/B Testing), LLMs & Prompt Engineering  
+Scikit-learn, PySpark, Statsmodels, Time Series Analysis, Hypothesis Testing (A/B Testing), LLMs & Prompt Engineering  
 
 **Data Engineering & Cloud**  
 ETL / ELT Pipelines, dbt, Snowflake, BigQuery, Databricks,  
