@@ -39,48 +39,48 @@
 ## 🧠 Languages & Tools
 <p align="center">
 
-<!-- Programming Languages -->
+<!-- Programming -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://img.icons8.com/color/48/visual-basic.png" width="35"/>
 
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
 
-<!-- Data Science & ML -->
+<!-- Data Science / ML -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/>
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" width="35"/>
-<img src="https://numpy.org/images/logo.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35"/>
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="35"/>
-<img src="https://matplotlib.org/_static/logo_dark.svg" width="35"/>
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="35"/>
+
+<!-- Data Engineering / Cloud -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
 
 <!-- Analytics & BI -->
 <img src="https://img.icons8.com/color/48/power-bi.png" width="35"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" width="35"/>
 <img src="https://img.icons8.com/color/48/ms-excel.png" width="35"/>
 
-<!-- Data Engineering & Cloud -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+<!-- Product Analytics -->
+<img src="https://img.icons8.com/color/48/google-analytics.png" width="35"/>
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="35"/>
+<img src="https://img.icons8.com/color/48/bar-chart.png" width="35"/>
 
 <!-- Tools & Frameworks -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35"/>
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alteryx.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="35"/>
+<img src="https://img.icons8.com/color/48/postman-api.png" width="35"/>
+<img src="https://img.icons8.com/color/48/jira.png" width="35"/>
+<img src="https://img.icons8.com/color/48/workflow.png" width="35"/>
 
 </p>
+
 
 
 ---
