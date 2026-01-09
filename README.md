@@ -81,25 +81,19 @@ Python, R, SQL, C++, Java, VBA, MySQL, PostgreSQL, MongoDB
 Scikit-learn, PySpark, Statsmodels, Time Series Analysis, Hypothesis Testing (A/B Testing), LLMs & Prompt Engineering  
 
 **Data Engineering & Cloud**  
-ETL / ELT Pipelines, dbt, Snowflake, BigQuery, Databricks,  
-Microsoft Fabric, Git  
+ETL / ELT Pipelines, dbt, Snowflake, BigQuery, Databricks, Microsoft Fabric, Git  
 
 **Analytics & Business Intelligence**  
-Pandas, NumPy, Power BI (DAX), Tableau, Advanced Excel,  
-Data Modeling (Star & Snowflake Schema)  
+Pandas, NumPy, Power BI (DAX), Tableau, Advanced Excel, Data Modeling (Star & Snowflake Schema)  
 
 **Product Analytics**  
-Amplitude, Google Analytics (GA4), Mixpanel,  
-Funnel & Cohort Analysis, KPI Tracking  
-(DAU, MAU, LTV, CAC, Retention)  
+Amplitude, Google Analytics (GA4), Mixpanel, Funnel & Cohort Analysis, KPI Tracking (DAU, MAU, LTV, CAC, Retention)  
 
 **Tools & Frameworks**  
 VS Code, Jupyter Notebook, Streamlit, Postman, Jira, Alteryx  
 
 **Coursework**  
-Data Structures & Algorithms, Object-Oriented Programming,  
-DBMS, Operating Systems, Computer Networks,  
-Machine Learning, Business Management
+Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, Machine Learning, Business Management
 
 ---
 
