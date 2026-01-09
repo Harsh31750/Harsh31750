@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Harshit Singh</h1>
-<h3 align="center">Data Science Engineer | Data & Product Analytics</h3>
+<h3 align="center">𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 / 𝐀𝐈-𝐌𝐋 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | Data & Product Analytics</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh31750&label=Profile%20views&color=0e75b6&style=flat" />
