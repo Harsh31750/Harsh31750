@@ -125,4 +125,4 @@ Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Syste
 ---
 
 📌 **Actively seeking roles:**  
-**Data Analyst | Analytics Engineer | Product Analyst | BI Engineer**
+**𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 | 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿**
