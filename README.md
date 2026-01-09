@@ -102,17 +102,18 @@ Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Syste
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh31750&theme=github_dark" 
+    height="150"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh31750&theme=github_dark" 
-    height="200"
+    height="140"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh31750&theme=github_dark" 
-    height="200"
+    height="140"
   />
 </p>
 
