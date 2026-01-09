@@ -39,45 +39,50 @@
 ## 🧠 Languages & Tools
 <p align="center">
 
-<!-- Programming -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+<!-- Programming & Query Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="35" title="R"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" title="SQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" title="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" title="Java"/>
 
 <!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" title="MongoDB"/>
 
-<!-- Data Science / ML -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35"/>
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="35"/>
+<!-- Data Science & ML -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" title="Scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="35" title="PySpark"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" title="Statsmodels"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35" title="NumPy"/>
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="35" title="Pandas"/>
 
-<!-- Data Engineering / Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+<!-- Data Engineering & Cloud -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" width="35" title="dbt"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" width="35" title="Snowflake"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="35" title="BigQuery"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" width="35" title="Databricks"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="35" title="Microsoft Fabric"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" title="Git"/>
 
 <!-- Analytics & BI -->
-<img src="https://img.icons8.com/color/48/power-bi.png" width="35"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="35"/>
-<img src="https://img.icons8.com/color/48/ms-excel.png" width="35"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="35" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="35" title="Tableau"/>
+<img src="https://img.icons8.com/color/48/ms-excel.png" width="35" title="Excel"/>
 
 <!-- Product Analytics -->
-<img src="https://img.icons8.com/color/48/google-analytics.png" width="35"/>
-<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="35"/>
-<img src="https://img.icons8.com/color/48/bar-chart.png" width="35"/>
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="35" title="Amplitude"/>
+<img src="https://img.icons8.com/color/48/google-analytics.png" width="35" title="Google Analytics (GA4)"/>
+<img src="https://img.icons8.com/color/48/bar-chart.png" width="35" title="Mixpanel"/>
 
 <!-- Tools & Frameworks -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/>
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="35"/>
-<img src="https://img.icons8.com/color/48/postman-api.png" width="35"/>
-<img src="https://img.icons8.com/color/48/jira.png" width="35"/>
-<img src="https://img.icons8.com/color/48/workflow.png" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" title="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="35" title="Jupyter Notebook"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="35" title="Streamlit"/>
+<img src="https://img.icons8.com/color/48/postman-api.png" width="35" title="Postman"/>
+<img src="https://img.icons8.com/color/48/jira.png" width="35" title="Jira"/>
+<img src="https://img.icons8.com/color/48/workflow.png" width="35" title="Alteryx"/>
 
 </p>
 
