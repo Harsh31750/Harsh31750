@@ -110,26 +110,6 @@ VS Code, Jupyter, Streamlit, Postman, Jira, Alteryx
   </tr>
 </table>
 
-
-
-
-
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=harsh31750&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31750&layout=compact&langs_count=10&theme=default&hide_border=true&cache_seconds=86400" 
-    height="165"
-  />
-</p>
-
-
 ---
 
 <p align="center">
