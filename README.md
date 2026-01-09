@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=harsh31750&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
+<p align="left">
   📧 <a href="mailto:harsh31750@gmail.com">harsh31750@gmail.com</a>
 </p>
 
-<p align="center">
+<p align="left">
   ⚡ <i>I think I'm enthusiastic about leveraging Data Science for predictive modeling and decision-making.</i>
 </p>
 
