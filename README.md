@@ -75,9 +75,9 @@
 ## 📊 Skill Summary
 
 **Programming & Databases**  
-Python, R, SQL, C++, Java, VBA | MySQL, PostgreSQL, MongoDB  
+Python, R, SQL, C++, Java, VBA, MySQL, PostgreSQL, MongoDB  
 
-**Data Science & ML**  
+**Data Science & Machine Learning**  
 Scikit-learn, PySpark, Statsmodels, Time Series Analysis,  
 Hypothesis Testing (A/B Testing), LLMs & Prompt Engineering  
 
@@ -85,16 +85,22 @@ Hypothesis Testing (A/B Testing), LLMs & Prompt Engineering
 ETL / ELT Pipelines, dbt, Snowflake, BigQuery, Databricks,  
 Microsoft Fabric, Git  
 
-**Analytics & BI**  
+**Analytics & Business Intelligence**  
 Pandas, NumPy, Power BI (DAX), Tableau, Advanced Excel,  
-Star & Snowflake Schema  
+Data Modeling (Star & Snowflake Schema)  
 
 **Product Analytics**  
-Amplitude, GA4, Mixpanel, Funnel & Cohort Analysis,  
-DAU / MAU / LTV / CAC / Retention  
+Amplitude, Google Analytics (GA4), Mixpanel,  
+Funnel & Cohort Analysis, KPI Tracking  
+(DAU, MAU, LTV, CAC, Retention)  
 
-**Tools**  
-VS Code, Jupyter, Streamlit, Postman, Jira, Alteryx  
+**Tools & Frameworks**  
+VS Code, Jupyter Notebook, Streamlit, Postman, Jira, Alteryx  
+
+**Coursework**  
+Data Structures & Algorithms, Object-Oriented Programming,  
+DBMS, Operating Systems, Computer Networks,  
+Machine Learning, Business Management
 
 ---
 
